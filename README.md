@@ -23,6 +23,9 @@ each turn your allowed, to move one of the marbles in any empty slot,
 your allowed to move left, right , up or down (if that slot is empty).
 each moving of a marble has a cost depending its color.
 
+Note: Your not allowed to perform an action and its inverse,
+so if you move a marble to the left, your not allowed to move it right
+the turn after.
 
 Output:
 
