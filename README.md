@@ -10,6 +10,8 @@ The goal is to solve the board game "marble color shuffle".
 Your given an input board:
 
 ![alt text](https://i.ibb.co/QYSxJH4/Screenshot-4.png)
+
+
 Goal board:
 
 ![alt text](https://i.ibb.co/Srw9G9S/Screenshot-5.png)
